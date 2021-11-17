@@ -1,4 +1,4 @@
-package com.verbitskiy.springbootmessage.config.filter;
+package com.verbitskiy.springbootmessage.dto.form;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

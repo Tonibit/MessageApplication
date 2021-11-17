@@ -3,6 +3,7 @@ package com.verbitskiy.springbootmessage.config.filter;
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.verbitskiy.springbootmessage.dto.form.UsernameAndPasswordRequestForm;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
